@@ -1,1 +1,0 @@
-# aspnetcore_ng2_template
